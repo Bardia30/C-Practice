@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = convertingStringToNumbers
-build_property.ProjectDir = /Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/
+build_property.ProjectDir = C:\Users\bardi\OneDrive\Desktop\C#Practice\C-Practice\convertingStringToNumbers\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
