@@ -1,0 +1,14 @@
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/bin/Debug/net8.0/TextBasedDataTypes
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/bin/Debug/net8.0/TextBasedDataTypes.deps.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/bin/Debug/net8.0/TextBasedDataTypes.runtimeconfig.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/bin/Debug/net8.0/TextBasedDataTypes.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/bin/Debug/net8.0/TextBasedDataTypes.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/obj/Debug/net8.0/TextBasedDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/obj/Debug/net8.0/TextBasedDataTypes.AssemblyInfoInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/obj/Debug/net8.0/TextBasedDataTypes.AssemblyInfo.cs
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/obj/Debug/net8.0/TextBasedDataTypes.csproj.CoreCompileInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/obj/Debug/net8.0/TextBasedDataTypes.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/obj/Debug/net8.0/refint/TextBasedDataTypes.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/obj/Debug/net8.0/TextBasedDataTypes.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/obj/Debug/net8.0/TextBasedDataTypes.genruntimeconfig.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/TextBasedDataTypes/obj/Debug/net8.0/ref/TextBasedDataTypes.dll

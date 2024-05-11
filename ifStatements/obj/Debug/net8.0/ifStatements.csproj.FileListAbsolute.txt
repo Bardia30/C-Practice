@@ -1,0 +1,14 @@
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/bin/Debug/net8.0/ifStatements
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/bin/Debug/net8.0/ifStatements.deps.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/bin/Debug/net8.0/ifStatements.runtimeconfig.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/bin/Debug/net8.0/ifStatements.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/bin/Debug/net8.0/ifStatements.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/obj/Debug/net8.0/ifStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/obj/Debug/net8.0/ifStatements.AssemblyInfoInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/obj/Debug/net8.0/ifStatements.AssemblyInfo.cs
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/obj/Debug/net8.0/ifStatements.csproj.CoreCompileInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/obj/Debug/net8.0/ifStatements.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/obj/Debug/net8.0/refint/ifStatements.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/obj/Debug/net8.0/ifStatements.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/obj/Debug/net8.0/ifStatements.genruntimeconfig.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ifStatements/obj/Debug/net8.0/ref/ifStatements.dll

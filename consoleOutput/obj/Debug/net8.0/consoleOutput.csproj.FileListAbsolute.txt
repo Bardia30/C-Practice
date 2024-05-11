@@ -1,0 +1,14 @@
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/bin/Debug/net8.0/consoleOutput
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/bin/Debug/net8.0/consoleOutput.deps.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/bin/Debug/net8.0/consoleOutput.runtimeconfig.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/bin/Debug/net8.0/consoleOutput.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/bin/Debug/net8.0/consoleOutput.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/obj/Debug/net8.0/consoleOutput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/obj/Debug/net8.0/consoleOutput.AssemblyInfoInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/obj/Debug/net8.0/consoleOutput.AssemblyInfo.cs
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/obj/Debug/net8.0/consoleOutput.csproj.CoreCompileInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/obj/Debug/net8.0/consoleOutput.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/obj/Debug/net8.0/refint/consoleOutput.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/obj/Debug/net8.0/consoleOutput.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/obj/Debug/net8.0/consoleOutput.genruntimeconfig.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/consoleOutput/obj/Debug/net8.0/ref/consoleOutput.dll

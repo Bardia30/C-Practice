@@ -1,0 +1,14 @@
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/bin/Debug/net8.0/convertingStringToNumbers
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/bin/Debug/net8.0/convertingStringToNumbers.deps.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/bin/Debug/net8.0/convertingStringToNumbers.runtimeconfig.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/bin/Debug/net8.0/convertingStringToNumbers.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/bin/Debug/net8.0/convertingStringToNumbers.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/obj/Debug/net8.0/convertingStringToNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/obj/Debug/net8.0/convertingStringToNumbers.AssemblyInfoInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/obj/Debug/net8.0/convertingStringToNumbers.AssemblyInfo.cs
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/obj/Debug/net8.0/convertingStringToNumbers.csproj.CoreCompileInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/obj/Debug/net8.0/convertingStringToNumbers.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/obj/Debug/net8.0/refint/convertingStringToNumbers.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/obj/Debug/net8.0/convertingStringToNumbers.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/obj/Debug/net8.0/convertingStringToNumbers.genruntimeconfig.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/convertingStringToNumbers/obj/Debug/net8.0/ref/convertingStringToNumbers.dll

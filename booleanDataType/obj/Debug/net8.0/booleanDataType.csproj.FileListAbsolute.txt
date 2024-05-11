@@ -1,0 +1,14 @@
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/bin/Debug/net8.0/booleanDataType
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/bin/Debug/net8.0/booleanDataType.deps.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/bin/Debug/net8.0/booleanDataType.runtimeconfig.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/bin/Debug/net8.0/booleanDataType.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/bin/Debug/net8.0/booleanDataType.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/obj/Debug/net8.0/booleanDataType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/obj/Debug/net8.0/booleanDataType.AssemblyInfoInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/obj/Debug/net8.0/booleanDataType.AssemblyInfo.cs
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/obj/Debug/net8.0/booleanDataType.csproj.CoreCompileInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/obj/Debug/net8.0/booleanDataType.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/obj/Debug/net8.0/refint/booleanDataType.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/obj/Debug/net8.0/booleanDataType.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/obj/Debug/net8.0/booleanDataType.genruntimeconfig.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/booleanDataType/obj/Debug/net8.0/ref/booleanDataType.dll

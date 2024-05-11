@@ -1,0 +1,14 @@
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/bin/Debug/net8.0/FreeCode
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/bin/Debug/net8.0/FreeCode.deps.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/bin/Debug/net8.0/FreeCode.runtimeconfig.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/bin/Debug/net8.0/FreeCode.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/bin/Debug/net8.0/FreeCode.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/obj/Debug/net8.0/FreeCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/obj/Debug/net8.0/FreeCode.AssemblyInfoInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/obj/Debug/net8.0/FreeCode.AssemblyInfo.cs
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/obj/Debug/net8.0/FreeCode.csproj.CoreCompileInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/obj/Debug/net8.0/FreeCode.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/obj/Debug/net8.0/refint/FreeCode.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/obj/Debug/net8.0/FreeCode.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/obj/Debug/net8.0/FreeCode.genruntimeconfig.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/FreeCode/obj/Debug/net8.0/ref/FreeCode.dll
