@@ -1,0 +1,15 @@
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/bin/Debug/net8.0/whileLoops
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/bin/Debug/net8.0/whileLoops.deps.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/bin/Debug/net8.0/whileLoops.runtimeconfig.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/bin/Debug/net8.0/whileLoops.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/bin/Debug/net8.0/whileLoops.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/obj/Debug/net8.0/whileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/obj/Debug/net8.0/whileLoops.AssemblyInfoInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/obj/Debug/net8.0/whileLoops.AssemblyInfo.cs
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/obj/Debug/net8.0/whileLoops.csproj.CoreCompileInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/obj/Debug/net8.0/whileLoops.sourcelink.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/obj/Debug/net8.0/whileLoops.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/obj/Debug/net8.0/refint/whileLoops.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/obj/Debug/net8.0/whileLoops.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/obj/Debug/net8.0/whileLoops.genruntimeconfig.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/whileLoops/obj/Debug/net8.0/ref/whileLoops.dll

@@ -1,0 +1,15 @@
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/bin/Debug/net8.0/ConditionalOperator
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/bin/Debug/net8.0/ConditionalOperator.deps.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/bin/Debug/net8.0/ConditionalOperator.runtimeconfig.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/bin/Debug/net8.0/ConditionalOperator.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/bin/Debug/net8.0/ConditionalOperator.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.AssemblyInfoInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.AssemblyInfo.cs
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.csproj.CoreCompileInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.sourcelink.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/obj/Debug/net8.0/refint/ConditionalOperator.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/obj/Debug/net8.0/ConditionalOperator.genruntimeconfig.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/ConditionalOperator/obj/Debug/net8.0/ref/ConditionalOperator.dll

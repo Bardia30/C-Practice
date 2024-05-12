@@ -1,0 +1,15 @@
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/bin/Debug/net8.0/forLoops
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/bin/Debug/net8.0/forLoops.deps.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/bin/Debug/net8.0/forLoops.runtimeconfig.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/bin/Debug/net8.0/forLoops.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/bin/Debug/net8.0/forLoops.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/obj/Debug/net8.0/forLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/obj/Debug/net8.0/forLoops.AssemblyInfoInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/obj/Debug/net8.0/forLoops.AssemblyInfo.cs
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/obj/Debug/net8.0/forLoops.csproj.CoreCompileInputs.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/obj/Debug/net8.0/forLoops.sourcelink.json
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/obj/Debug/net8.0/forLoops.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/obj/Debug/net8.0/refint/forLoops.dll
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/obj/Debug/net8.0/forLoops.pdb
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/obj/Debug/net8.0/forLoops.genruntimeconfig.cache
+/Users/bardiadehbasti/Documents/C#FreeCodeCamp/forLoops/obj/Debug/net8.0/ref/forLoops.dll
